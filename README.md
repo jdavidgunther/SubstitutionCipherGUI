@@ -1,1 +1,1 @@
-# SubstitutionCypherGUI
+# SubstitutionCipherGUI
